@@ -1,5 +1,6 @@
 FUNÇÕES:
-Desing:
+
+Design:
 ● Vitor freira
 ● Duda 
 
