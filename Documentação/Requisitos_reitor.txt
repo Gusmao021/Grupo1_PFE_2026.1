@@ -2,7 +2,7 @@ REQUISITOS DADOS PELO DADO PELO REITOR - DIA: 27/03/26
 
 1.repensar a estrutura do site
 2.manter o padrão da logo e fonte
-3.O manter:
+3.oque manter:
    • quem somos 
    • oque fazemos 
    • artigo
@@ -10,6 +10,10 @@ REQUISITOS DADOS PELO DADO PELO REITOR - DIA: 27/03/26
    • area de membros
 
 4.Cores padrões: 
+    • cinza 
+    • amarelo
+    • azul
+    • preto
 
 5.criar aba de associados
 6.ferramenta blog / associada a pagina principal
