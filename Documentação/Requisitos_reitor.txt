@@ -1,0 +1,18 @@
+REQUISITOS DADOS PELO DADO PELO REITOR - DIA: 27/03/26
+
+1.repensar a estrutura do site
+2.manter o padrão da logo e fonte
+3.O manter:
+   • quem somos 
+   • oque fazemos 
+   • artigo
+   • contado
+   • area de membros
+
+4.Cores padrões: 
+
+5.criar aba de associados
+6.ferramenta blog / associada a pagina principal
+7.criar quadro de rss / bolsa de valores 
+8.Primeira coisa que o cliente tem que ver ao entrar no site: 
+    • ultimas notícias do blog e eventos 
