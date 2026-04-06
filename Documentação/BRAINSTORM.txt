@@ -2,10 +2,11 @@ IDEIAS DE POSSíVEIS MUDANÇAS DO  SITE DA ACB BRASIL:
 
     • Melhorar a responsividade do site
     
-    • Restruturar o header 
+    • Reestruturar o header 
     
     • Criar aba de associados 
 
     • Integração com o blog
 
+    • Alteração dos tons das cores primárias
     
