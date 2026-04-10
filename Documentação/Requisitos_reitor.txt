@@ -21,3 +21,12 @@ REQUISITOS DADOS PELO DADO PELO REITOR - DIA: 27/03/26
 7.criar quadro de rss / bolsa de valores 
 8.Primeira coisa que o cliente tem que ver ao entrar no site: 
     • ultimas notícias do blog e eventos 
+
+
+    1. 5W2H (Pronto)
+    2. Mind Map (Pronto)
+    3. Documento de Visão (Trabalhando)
+    4. Brainstorm (Trabalhando)
+    5. Prototipo Figma (Trabalhando)
+    6. Scrum (Trabalhando)
+    7. Documento de Visão (Trabalhando)
