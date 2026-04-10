@@ -17,8 +17,7 @@ Documentação:
 
     1. 5W2H (Pronto)
     2. Mind Map (Pronto)
-    3. Documento de Visão (Trabalhando)
-    4. Brainstorm (Trabalhando)
+    3. Documento de Visão (Pronto)
+    4. Brainstorm (Pronto)
     5. Prototipo Figma (Trabalhando)
     6. Scrum (Trabalhando)
-    7. Documento de Visão (Trabalhando)

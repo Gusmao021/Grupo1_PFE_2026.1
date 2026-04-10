@@ -1,12 +1,55 @@
-IDEIAS DE POSSíVEIS MUDANÇAS DO  SITE DA ACB BRASIL:
+1. Objetivo do Projeto
+    • Refazer completamente o site atual da ACB Brasil, que apresenta problemas significativos de usabilidade, design e performance.
+    • O projeto teve início após uma breve reunião com o reitor da faculdade, onde foi destacada a necessidade de modernização da plataforma.
+
+2. Problemas Identificados no Site Atual
+    • Responsividade
+    • Navegação confusa
+    • Erros de hyperlink
+    • Artigos sem o devido destaque
+    • Falta de identidade visual clara
+    • Baixa acessibilidade
+
+3. Ideias de melhorias do Design e UX
 
     • Melhorar a responsividade do site
-    
     • Reestruturar o header 
-    
-    • Criar aba de associados 
-
+    • Criar aba de associados   
     • Integração com o blog
-
     • Alteração dos tons das cores primárias
+    • Quadro de RSS/Bolsa
+
+4. Distribuição de Funções
+
+BRAINSTORM
+	• Vitor Luiz
+	• Maria Eduarda
+    • Filipe Andrade
+
+Mindmap
+	• Maria Eduarda
+
+5w2h
+	• Gabriel de Souza
+
+Documento de visão 
+    • Daniel Gusmao
+
+Protótipo FIGMA
+    • Vitor Freire	
+
+Registros dos scrum meetings
+	• Pedro Henrique Marques
+    
+    
+5. Desafios do Projeto
+    • Tempo limitado
+    • Falta de experiência da equipe
+    • Alinhamento entre membros
+    • Transformar ideias em algo funcional
+    • Comunicação com stakeholders (reitor / instituição)
+
+
+
+
     
