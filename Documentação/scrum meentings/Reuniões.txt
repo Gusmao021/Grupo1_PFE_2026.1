@@ -10,3 +10,5 @@ Semana 1 - 27/03 a 03/04
 Semana 2 03/04 a 10/04
 ↓
 • adicionado o Mind map
+• Finalização do Documento de Visão: Detalhamento do escopo, principais funcionalidades e análise de riscos do projeto.
+• Consolidação do Brainstorm: Sistematização das ideias levantadas pela equipe em requisitos funcionais e não-funcionais.
