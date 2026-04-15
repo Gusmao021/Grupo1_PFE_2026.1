@@ -121,7 +121,7 @@ Dependências
 
 Documentação:
 
-    1. [5W2H] (./Documentação/5W2H/tabela5W2H.pdf) - Pronto
+    1. [5W2H](./Documentação/5W2H/tabela5W2H.pdf) - Pronto
     2. Mind Map (Pronto)
     3. Documento de Visão (Pronto)
     4. Brainstorm (Pronto)
