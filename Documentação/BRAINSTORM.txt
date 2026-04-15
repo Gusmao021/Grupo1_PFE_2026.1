@@ -1,5 +1,5 @@
 1. Objetivo do Projeto
-    • Refazer completamente o site atual da ACB Brasil, que apresenta problemas significativos de usabilidade, design e performance.
+    • Refazer completamente o site atual da ACBrasil, que apresenta problemas significativos de usabilidade, design e performance.
     • O projeto teve início após uma breve reunião com o reitor da faculdade, onde foi destacada a necessidade de modernização da plataforma.
 
 2. Problemas Identificados no Site Atual
