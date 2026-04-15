@@ -102,6 +102,10 @@ Widget Financeiro: Integração com API externa para exibição de indicadores d
 
 Comunicação: Formulários de contato com validação e disparo automático de e-mail.
 
+Busca Inteligente: Sistema de busca interna com filtros por categoria, data e autor.
+
+Painel do Associado: Dashboard pessoal com histórico de participação em eventos, artigos publicados e status da associação.
+
 5.2 Restrições e Premissas
 
 Tecnologia: Desenvolvimento focado em arquitetura Front-end Web.
@@ -113,8 +117,23 @@ Design: Utilização obrigatória da paleta institucional: Cinza, Amarelo, Azul 
 Prazos: O projeto deve ser concluído dentro do cronograma estipulado para o semestre letivo.
 
 6. Riscos e Qualidade
-Riscos Identificados: Dificuldades técnicas na integração com APIs de terceiros e complexidade na implementação da área de membros.
+6.1 Riscos Identificados
+
+Dificuldades técnicas na integração com APIs de terceiros e complexidade na implementação da área de membros.
+Indisponibilidade temporária da API da Bolsa, impactando a exibição de dados em tempo real.
+Atrasos no cronograma devido à conciliação com outras disciplinas do semestre.
+
+6.2 Estratégias de Mitigação
+
+Implementar cache local e fallback com dados históricos para contornar instabilidade da API.
+Adotar desenvolvimento incremental com entregas parciais (MVP) para reduzir risco de atraso.
+Realizar testes cross-browser desde as primeiras sprints para antecipar incompatibilidades.
+
+6.3 Critérios de Qualidade
 
 Desempenho: As páginas devem ser otimizadas para carregamento rápido em navegadores modernos (Chrome, Firefox, Edge).
-
 Acessibilidade: Aplicação de boas práticas de acessibilidade digital para garantir inclusão.
+Responsividade: Interface testada em resoluções de 320px (mobile) a 2560px (ultrawide).
+Código: Revisão via Pull Requests e padronização com ESLint/Prettier.
+
+
