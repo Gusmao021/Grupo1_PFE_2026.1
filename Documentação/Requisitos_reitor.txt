@@ -14,7 +14,7 @@ REQUISITOS DADOS PELO DADO PELO REITOR - DIA: 27/03/26
     • cinza 
     • amarelo
     • azul
-    • preto
+    • branco
 
 5.criar aba de associados
 6.ferramenta blog / associada a pagina principal
