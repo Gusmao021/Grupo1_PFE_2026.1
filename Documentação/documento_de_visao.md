@@ -1,8 +1,8 @@
-Documento de Visão: Portal ACB Brasil
+Documento de Visão: Portal ACBrasil
 
 1. Introdução
 
-O presente documento descreve a visão estratégica e técnica para o novo portal da ACB Brasil. Este artefato serve como guia para alinhar as expectativas da equipe de desenvolvimento (Grupo 1) e dos stakeholders, garantindo que os objetivos de negócio e as necessidades dos usuários sejam atendidos com precisão.
+O presente documento descreve a visão estratégica e técnica para o novo portal da ACBrasil. Este artefato serve como guia para alinhar as expectativas da equipe de desenvolvimento (Grupo 1) e dos stakeholders, garantindo que os objetivos de negócio e as necessidades dos usuários sejam atendidos com precisão.
 
 1.1 Finalidade
 
@@ -14,7 +14,7 @@ O projeto compreende o desenvolvimento de uma plataforma web moderna e responsiv
 
 1.3 Definições, Acrônimos e Abreviações
 
-ACB Brasil: Associação dos Analistas e Profissionais de Investimento do Mercado de Capitais.
+ACBrasil: Associação dos Analistas e Profissionais de Investimento do Mercado de Capitais.
 
 API: Interface de Programação de Aplicações (utilizada para os dados da bolsa).
 
@@ -26,7 +26,7 @@ Responsive: Design que se adapta a diferentes tamanhos de tela (desktop e mobile
 
 2.1 Oportunidade de Negócio
 
-A ACB Brasil busca consolidar sua presença digital como autoridade no mercado financeiro. Atualmente, há uma lacuna entre a importância da associação e a funcionalidade de sua plataforma online. A modernização permitirá uma comunicação direta, centralização de conteúdo técnico e maior valor agregado para os associados.
+A ACBrasil busca consolidar sua presença digital como autoridade no mercado financeiro. Atualmente, há uma lacuna entre a importância da associação e a funcionalidade de sua plataforma online. A modernização permitirá uma comunicação direta, centralização de conteúdo técnico e maior valor agregado para os associados.
 
 2.2 Descrição do Problema
 
@@ -37,7 +37,7 @@ O Impacto é	Dificuldade no acesso a informações, formulários ineficientes e 
 Uma Solução Eficaz	Reformulação completa do ecossistema web com foco em colaboração e dados em tempo real.
 2.3 Sentença de Posição do Produto
 
-Para: Profissionais do mercado financeiro e associados da ACB Brasil.
+Para: Profissionais do mercado financeiro e associados da ACBrasil.
 
 Que: Buscam uma fonte confiável de conteúdo técnico e networking.
 
@@ -54,7 +54,7 @@ Nosso Produto: Oferece integração financeira em tempo real e uma área de memb
 
 Nome	Descrição	Responsabilidades
 Grupo 1	Equipe de Desenvolvimento	Engenharia, design e implementação do sistema.
-ACB Brasil	Cliente / Stakeholder	Definição de requisitos e validação de negócio.
+ACBrasil	Cliente / Stakeholder	Definição de requisitos e validação de negócio.
 Corpo Docente	Avaliadores Acadêmicos	Orientação técnica e validação pedagógica.
 
 3.2 Perfis dos Usuários
@@ -62,7 +62,7 @@ Corpo Docente	Avaliadores Acadêmicos	Orientação técnica e validação pedag�
 | Nome      | Descrição                              | Principais Necessidades                                  |
 |-----------|----------------------------------------|----------------------------------------------------------|
 | Visitante | Público geral interessado em finanças. | Acesso rápido a notícias, eventos e contato.             |
-| Associado | Membro registrado da ACB Brasil.       | Área de login, edição de perfil e publicação de artigos. |
+| Associado | Membro registrado da ACBrasil.       | Área de login, edição de perfil e publicação de artigos. |
 
 3.3 Principais Necessidades (Priorização)
 
@@ -77,7 +77,7 @@ Corpo Docente	Avaliadores Acadêmicos	Orientação técnica e validação pedag�
 
 4.1 Perspectiva do Produto
 
-O portal ACB Brasil deixará de ser um site estático para se tornar um hub de serviços. Ele integra o marketing institucional com ferramentas de produtividade para o associado, unindo a credibilidade da marca ACB com tecnologias modernas de entrega de dados e conteúdo.
+O portal ACBrasil deixará de ser um site estático para se tornar um hub de serviços. Ele integra o marketing institucional com ferramentas de produtividade para o associado, unindo a credibilidade da marca ACB com tecnologias modernas de entrega de dados e conteúdo.
 
 4.2 Resumo dos Recursos
 
