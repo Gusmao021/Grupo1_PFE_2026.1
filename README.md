@@ -20,4 +20,4 @@ Documentação:
     3. Documento de Visão (Pronto)
     4. Brainstorm (Pronto)
     5. Prototipo Figma (Trabalhando)
-    6. Scrum (Trabalhando)
+    6. Scrum (Pronto)
